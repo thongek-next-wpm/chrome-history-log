@@ -1,0 +1,10 @@
+# Ignore exported browsing logs and raw SQLite backups
+logs/
+raw_backup_*/
+*.csv
+*.db
+*.sqlite
+History
+History-wal
+History-shm
+History-journal
